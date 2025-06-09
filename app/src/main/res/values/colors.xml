@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Futuristic Color Palette -->
+    <color name="primary_dark">#0A0A0A</color>
+    <color name="primary_surface">#1A1A1A</color>
+    <color name="secondary_surface">#2A2A2A</color>
+    <color name="accent_cyan">#00E5FF</color>
+    <color name="accent_purple">#7C4DFF</color>
+    <color name="accent_green">#00E676</color>
+    <color name="accent_orange">#FF6D00</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0BEC5</color>
+    <color name="text_hint">#546E7A</color>
+    
+    <!-- Legacy colors for compatibility -->
+    <color name="green">#00E676</color>
+    <color name="blue">#00E5FF</color>
+    <color name="darkBlue">#0091EA</color>
+    
+    <!-- Material Design 3 colors -->
+    <color name="your_primary_color">#7C4DFF</color>
+    <color name="your_on_primary_color">#FFFFFF</color>
+    <color name="your_secondary_color">#00E5FF</color>
+    <color name="your_on_secondary_color">#000000</color>
+    <color name="your_background_color">#0A0A0A</color>
+    <color name="your_surface_color">#1A1A1A</color>
+    <color name="your_on_surface_color">#FFFFFF</color>
+
+    <!-- Dark mode colors -->
+    <color name="your_primary_color_dark">#7C4DFF</color>
+    <color name="your_on_primary_color_dark">#FFFFFF</color>
+    <color name="your_secondary_color_dark">#00E5FF</color>
+    <color name="your_on_secondary_color_dark">#000000</color>
+    <color name="your_background_color_dark">#0A0A0A</color>
+    <color name="your_surface_color_dark">#1A1A1A</color>
+    <color name="your_on_surface_color_dark">#FFFFFF</color>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/transactions"
+        android:icon="@drawable/transaction"
+        android:title="Trans." />
+
+    <item
+        android:id="@+id/stats"
+        android:icon="@drawable/pie_chart"
+        android:title="Stats" />
+
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/account"
+        android:title="Account" />
+
+    <item
+        android:id="@+id/more"
+        android:icon="@drawable/star"
+        android:title="Wishlist" />
+</menu>

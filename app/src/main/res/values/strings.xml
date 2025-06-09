@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">eManager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <!-- Developer Information -->
+    <string name="developer_name">Jeevan Patil</string>
+    <string name="developer_contact">9359334430</string>
+    <string name="app_version">1.0</string>
+    <string name="app_description">A modern expense tracking app for better financial management</string>
+</resources>
